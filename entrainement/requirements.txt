@@ -1,0 +1,11 @@
+psycopg2==2.8.6
+sklearn
+sqlalchemy
+matplotlib==3.3.3
+PyYAML==5.3.1
+pandas==1.1.4
+psutil==5.7.3
+shap==0.35.0
+kaleido==0.0.3.post1
+plotly==4.13.0
+numpy==1.19.3
